@@ -1,7 +1,6 @@
 <template>
 <div class="card text-center">
     <div class="text-center">
-  <img src="src\img\l.jpeg" class="rounded" alt="...">
     </div>
   <div class="card-header">
     <h5>Universidad Gerardo Barrios</h5>
