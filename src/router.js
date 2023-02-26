@@ -9,7 +9,7 @@ export default createRouter({
     history: createWebHistory(),
     routes: [
         {
-            path: '/',
+            path: '/introducion',
             component: Home
         },
         {
