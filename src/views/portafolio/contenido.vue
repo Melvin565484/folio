@@ -69,7 +69,7 @@
   </div>
   <div class="col">
     <div class="card border-dark mb-3">
-      <img src="src\img\html.jpg" class="rounded float-end" alt="...">
+      <img src="" class="rounded float-end" alt="...">
       <h4 class="card-text text-primary">Programación de evaluaciones computo I
       </h4>
     </div>
@@ -107,7 +107,7 @@
     <div class="card-body">
     </div>
   </div>
-  <div class="card border-success">
+  <div class="card border-">
     <img src="src\img\Apuntes2.JPG" class="rounded" alt="...">
     <div class="card-body">
       </div>

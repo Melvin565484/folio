@@ -1,6 +1,6 @@
 <template>
 <div class="row">
-  <img src="src\img\guias.png" class="rounded" alt="...">
+  <img src="" class="rounded" alt="...">
   <div class="col-sm-6">
     <div class="card">
       <div class="card-body">
