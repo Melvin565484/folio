@@ -10,7 +10,7 @@ export default createRouter({
     routes: [
         {
             path: '/introduccion',
-            component: Home
+            component: Introduccion
         },
         {
             path: '/introduccion',
