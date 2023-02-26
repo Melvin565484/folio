@@ -98,17 +98,17 @@
 <div class="card-group">
   <div class="card border-success">
     <h5 class="card-title">Apuntes</h5>
-    <img src="src\img\Apuntes.JPG" class="rounded" alt="...">
+    <img src="" class="rounded" alt="...">
     <div class="card-body">
     </div>
   </div>  
   <div class="card border-success">
-    <img src="src\img\Apuntes1.JPG" class="rounded" alt="...">
+    <img src="" class="rounded" alt="...">
     <div class="card-body">
     </div>
   </div>
   <div class="card border-">
-    <img src="src\img\Apuntes2.JPG" class="rounded" alt="...">
+    <img src="" class="rounded" alt="...">
     <div class="card-body">
       </div>
   </div>
