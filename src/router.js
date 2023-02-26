@@ -1,7 +1,9 @@
 import {createRouter, createWebHistory } from 'vue-router';
 import Home from './views/home.vue';
-import Countries from './views/countries/index.vue';
+import Introduccion from './views/portafolio/index.vue';
+import Contenido from './views/portafolio/contenido.vue';
 
+import Guia from './views/portafolio/guia.vue';
 
 export default createRouter({
     history: createWebHistory(),
@@ -11,8 +13,20 @@ export default createRouter({
             component: Home
         },
         {
-            path: '/countries',
-            component: Countries
-        }
+            path: '/introduccion',
+            name: 'Introduccion',
+            component: Introduccion
+        },
+        {
+            path: '/contenido',
+            name: 'Contenidos',
+            component: Contenido
+        },
+        {
+            path: '/guia',
+            name: 'Guias',
+            component: Guia
+        },
+        
     ]
 });
